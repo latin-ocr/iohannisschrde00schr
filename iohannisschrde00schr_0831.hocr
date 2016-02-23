@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iohannisschrde00schr/iohannisschrde00schr_0831.png"; bbox 0 0 2066 2970; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 2066 595">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 2066 595">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 2066 595; baseline 0 2375"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 2066 595; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1291 1562 1313 1583">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1291 1562 1313 1583">
+     <span class='ocr_line' id='line_1_2' title="bbox 1291 1562 1313 1583; baseline 0.091 -2"><span class='ocrx_word' id='word_1_2' title='bbox 1291 1562 1313 1583; x_wconf 66' lang='lat' dir='ltr'><em>n</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1270 1700 1333 1723">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1270 1700 1333 1723">
+     <span class='ocr_line' id='line_1_3' title="bbox 1270 1700 1333 1723; baseline 0.032 -21"><span class='ocrx_word' id='word_1_3' title='bbox 1270 1706 1286 1719; x_wconf 52' lang='grc'><strong><em>’</em></strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1294 1700 1333 1723; x_wconf 32' lang='lat'><strong><em>¹⁰„</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
